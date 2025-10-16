@@ -1,58 +1,57 @@
 # Core Frameworks
-streamlit==1.31.0
-fastapi==0.109.0
-uvicorn[standard]==0.27.0
+streamlit
+fastapi
+uvicorn[standard]
 
 # Database
-psycopg2-binary==2.9.9
-sqlalchemy==2.0.25
-alembic==1.13.1
-pgvector==0.2.5
+psycopg2-binary
+sqlalchemy
+alembic
+pgvector
 
 # LLM and Embeddings
-langchain==0.1.5
-langchain-community==0.0.20
-ollama==0.1.6
-sentence-transformers==2.3.1
+langchain
+langchain-community
+ollama
+sentence-transformers
 
 # Vector Store
-chromadb==0.4.22
-faiss-cpu==1.7.4
+chromadb
+faiss-cpu
 
 # Data Processing
-pandas==2.2.0
-numpy==1.26.3
-python-dotenv==1.0.1
-httpx==0.26.0
+pandas
+numpy
+python-dotenv
+httpx
 
 # Validation
-pydantic==2.5.3
-pydantic-settings==2.1.0
+pydantic
+pydantic-settings
 
 # Text Processing
-pypdf==4.0.1
-beautifulsoup4==4.12.3
-markdown==3.5.2
+pypdf
+beautifulsoup4
+markdown
 
 # Visualization
-plotly==5.18.0
-altair==5.2.0
+plotly
+altair
 
 # Utils
-python-multipart==0.0.6
-aiofiles==23.2.1
-requests==2.31.0
+python-multipart
+aiofiles
+requests
 
 # Testing
-pytest==8.0.0
-pytest-asyncio==0.23.4
-pytest-cov==4.1.0
-httpx==0.26.0
+pytest
+pytest-asyncio
+pytest-cov
 
 # Code Quality
-black==24.1.1
-flake8==7.0.0
-isort==5.13.2
+black
+flake8
+isort
 
 # Logging
-loguru==0.7.2
+loguru
